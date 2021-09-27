@@ -1,0 +1,1 @@
+{"Meilleurs":3.5,"Composants Sil2":["Profs","Cours","Tables","Projecteurs","Sacs","Etudiants"],"Effectif Sil2":"10\n"}
